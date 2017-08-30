@@ -1,0 +1,19 @@
+title: Ein Spielplatz
+url: "http://localhost:4000"
+description: Hier probieren wir verschiedene Dinge aus.
+keywords: Test, Spiel, Experiment
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+
+gems:
+  - jekyll-optional-front-matter
+  - jekyll-relative-links
+  - jekyll-titles-from-headings
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+  auto_ids: false
