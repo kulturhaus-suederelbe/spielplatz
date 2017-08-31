@@ -2,6 +2,8 @@
 
 Kinder aus ganz Süderelbe tanzen gemeinsam.
 
+![](/img/index.jpg)
+
 Lore ipsum tatare wenn Du heute nicht kommst.
 
 ## Einkaufsliste
