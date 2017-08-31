@@ -1,3 +1,8 @@
-# Noch eine Seite
+# Ausstellungen
 
-Hier gibt es nichts zu sehen.
+##
+
+* Miles Davis
+* Maceo Parker
+* Stanley Clarke
+![](/img/KHS1079.JPG)
