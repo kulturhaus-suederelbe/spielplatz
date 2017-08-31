@@ -1,3 +1,7 @@
-# Noch eine Seite
+# Ausstellungen
 
-Hier gibt es nichts zu sehen.
+##
+
+* Miles Davis
+* Maceo Parker
+* Stanley Clarke
