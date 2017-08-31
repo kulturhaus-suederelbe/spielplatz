@@ -32,7 +32,7 @@ Tal
 
 Ein Bild:
 
-![](/img/rasierpinsel.jpg)
+![Altes Kulturhaus](/img/MarkesBilder.jpg)
 
 Ein [Link zu Wikipedia](https://de.wikipedia.org).
 
