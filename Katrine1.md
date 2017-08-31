@@ -20,3 +20,4 @@ Die Trennung geschah im Jahr 1990.
 2. Kirchdeich
 3. Nehusweg
 
+![schachbrettblume](/img/schachbrettblume.jpg)
