@@ -21,3 +21,6 @@ Die Trennung geschah im Jahr 1990.
 3. Nehusweg
 
 ![schachbrettblume](/img/schachbrettblume.jpg)
+
+Um diese Blumen wurden sog. Tulpenkriege geführt, die in Massenprügeleien endeten.
+
