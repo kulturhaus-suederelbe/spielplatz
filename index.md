@@ -22,7 +22,7 @@ Eine nummerierte Liste:
 2. zwei
 3. drei
 
-Eine Hinterhältige Liste:
+Eine hinterhältige Liste:
 
 05. eins
 1. zwei
@@ -35,6 +35,14 @@ Berg
 
 Tal
 :   tief
+
+Eine hinterhältige Definitionsliste:
+
+05. Oktober 2017
+:   Ereibnis A
+
+02. November 2017
+:   Ereignis B
 
 Ein Bild:
 
