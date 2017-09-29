@@ -22,6 +22,12 @@ Eine nummerierte Liste:
 2. zwei
 3. drei
 
+Eine Hinterhältige Liste:
+
+05. eins
+1. zwei
+4. drei
+
 Eine Definitionsliste:
 
 Berg
